@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "inherits": "^2.0.1",
-    "readable-stream": "^1.0.33"
+    "readable-stream": "^3.3.0"
   },
   "optionalDependencies": {
     "chacha-native": "^2.0.0"
